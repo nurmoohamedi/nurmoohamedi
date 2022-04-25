@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-### 📫 Contact
+## 📫 Contact
 
 📧 nurmoohamedi@gmail.com
 
-📱 8 (747) - 197 - 02 – 42
-
 # 💬 ABOUT ME
 
-Я начинающий Front - end разработчик. Я стремлюсь получить как можно больше практического опыта в реальных проектах,
-поэтому я сосредоточен на активной и продуктивной работе. 
+### ⚡ I am a junior Front - end developer. I strive to gain as much practical experience as possible in real projects, so, I am focused on active and productive work.
 
-Я быстро учусь и заинтересован в том, чтобы получать больше. 
-И самое главное, у меня бешеное желание всему научиться.
+### 🤩 I'm a fast learner and interested in getting more.And most importantly, I have a burning desire to learn everything.
 
-В будущем хочу стать Full-Stack разработчиком , и в настоящее время активно изучаю Spring и React. 
-И хочу начать свой путь с Реакта, но не против попробовать себя в Бэкенде.
+### 💻 In the future I want to become a Full-Stack developer, and I am currently actively studying Spring and React. And I want to start my journey with a React in Front, but I don't mind trying myself in the Backend.
 
 
 <!--  
